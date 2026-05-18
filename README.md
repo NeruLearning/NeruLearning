@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 ---
 <!-- [![](https://komarev.com/ghpvc/?username=NeruLearning&icon=0&color=0)](https://visitcount.itsvg.in) -->
-![](https://media.tenor.com/laNVq3HwQ_EAAAAi/d-sad.gif)
+![]([https://media.tenor.com/laNVq3HwQ_EAAAAi/d-sad.gif](https://media1.tenor.com/m/wDXgK1ed38oAAAAC/hakos-baelz-bae.gif))
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
